@@ -2,3 +2,6 @@ HELP.md
 **/target/
 **/idea/
 .idea
+/**/mvnw
+/**/mvnw.cmd
+/**/.mvn
