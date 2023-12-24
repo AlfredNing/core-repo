@@ -6,7 +6,11 @@
 
   <groupId>com.alfred</groupId>
   <artifactId>core-repo</artifactId>
+  <packaging>pom</packaging>
   <version>0.0.1</version>
+  <modules>
+    <module>test-hzero-repo</module>
+  </modules>
 
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
